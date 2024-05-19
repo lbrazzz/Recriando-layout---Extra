@@ -1,0 +1,72 @@
+h1{
+  família de fontes: "Dose",sem serifa;
+  tamanho da fonte: 32pixels;
+  espessura da fonte: 494;
+  estilo de fonte:médio;
+}
+    
+corpo{
+      família de fontes: "Aberto Sans",sem serifa;
+      estilo de fonte:normal;
+      tamanho da fonte: 15pixels;
+      configurações de variação de fonte:
+        "largura" 100;
+        alinhamento de texto:Centro;
+        
+    
+    }
+
+    #herói imagem{
+        margem inferior: 32pixels;
+    }
+
+    
+    h1 período{
+        cor: #EE24FF;
+    }
+    
+    h1{
+        cor: #3F3D56;
+    }
+    #principal forte{
+        estilo de fonte:audacioso;
+        cor: #3F3D56;
+    }
+
+    #principal{
+        margem: 0pixelsauto64pixels;
+        largura: 626pixels;
+        cor: #828282;
+    }
+
+    a{
+        cor: #3F3D56;
+        estilo de fonte:audacioso;
+    }
+
+    a + a{
+margem esquerda: 42pixels;
+    }
+
+    #linha{
+        largura: 391pixels;
+        altura: 0pixels;
+        fronteira: 1pixelssólido#ECEFF2;
+        margem: 0pixelsauto16pixels;
+    }
+
+    #aceno{
+        margem: 40,83pixels;
+        largura máxima: 100%;
+    }
+
+    #linha a{
+        decoração de texto:nenhum;
+        margem: 16pixels;
+    }
+
+    #principal p{
+        alinhamento de texto:Centro;
+        largura: 540pixels;
+        margem:auto;
+    }
